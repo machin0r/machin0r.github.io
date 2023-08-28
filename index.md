@@ -10,6 +10,7 @@ I also create two random forest regression models to determine which factors hav
 
 <img src="/images/portfolio_image.png?raw=true"/>
 [See on Github]((https://github.com/machin0r/WHPSC_Race_Data))
+
 ---
 
 ### Hardware Interfaces
