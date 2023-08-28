@@ -2,28 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[WHPSC Race Data Analysis](https://github.com/machin0r/WHPSC_Race_Data)
+<img src="/images/portfolio_image.png?raw=true"/>
+The World Human Powered Speed Challenge takes place in Nevada each year, and the current world record is 89 mph. In this project I analyse the race data from 2001-2019, creatign visualisation for the riders, bikes, and runs. I also create two random forest regression models to determine which factors have the biggest influence on the top speed of the riders.
 
 ---
 
-### Category Name 2
+### Hardware Interfaces
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [CIMS II/Midas Ink Delivery System Control](https://github.com/machin0r/CIMSII-Midas_Ink_Control)
+- [SPI G4 Pulsed Laser Control](https://github.com/machin0r/SPI_G4_Pulsed_Laser_Control)
 
 ---
 
