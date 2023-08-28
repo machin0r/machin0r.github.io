@@ -9,7 +9,9 @@ The World Human Powered Speed Challenge takes place in Nevada each year, and the
 I also create two random forest regression models to determine which factors have the biggest influence on the top speed of the riders.
 
 <img src="/images/portfolio_image.png?raw=true"/>
+
 [See on Github](https://github.com/machin0r/WHPSC_Race_Data)
+
 
 ---
 
