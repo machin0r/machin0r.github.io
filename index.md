@@ -18,7 +18,6 @@ I also created two random forest regression models to determine which factors ha
 
 ### Hardware Interfaces
 
-- [CIMS II/Midas Ink Delivery System Control](https://github.com/machin0r/CIMSII-Midas_Ink_Control)
 - [SPI G4 Pulsed Laser Control](https://github.com/machin0r/SPI_G4_Pulsed_Laser_Control)
 
 ---
