@@ -12,18 +12,11 @@ I also created two random forest regression models to determine which factors ha
 <img src="/images/portfolio_image.png?raw=true"/>
 
 [See on Github](https://github.com/machin0r/WHPSC_Race_Data)
-
-
 ---
 
-### Hardware Interfaces
-
+### Hardware Interface Libraries
 - [SPI G4 Pulsed Laser Control](https://github.com/machin0r/SPI_G4_Pulsed_Laser_Control)
-
 ---
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
