@@ -15,7 +15,14 @@ I also created two random forest regression models to determine which factors ha
 ---
 
 ### Hardware Interface Libraries
+
 - [SPI G4 Pulsed Laser Control](https://github.com/machin0r/SPI_G4_Pulsed_Laser_Control)
+
+- [CIMSII Midas Ink Control](https://github.com/machin0r/CIMSII-Midas_Ink_Control)
+
+- [Binder Jet Image Format Convertor](https://github.com/machin0r/Binder_Jet_Image_Convertor)
+
+
 ---
 
 ---
