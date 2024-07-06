@@ -3,7 +3,7 @@
 ---
 
 ### Projects
-### [WHPSC Race Data Analysis] (https://github.com/machin0r/WHPSC_Race_Data)
+### [WHPSC Race Data Analysis](https://github.com/machin0r/WHPSC_Race_Data)
 
 The World Human Powered Speed Challenge takes place in Nevada each year, and the current world record is 89 mph. In this project I analyse the race data from 2001-2019, creating visualisations for the riders, bikes, and runs. 
 
