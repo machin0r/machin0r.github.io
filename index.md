@@ -35,7 +35,3 @@ Python library for controlling a CIMS-II Midas ink recirculation system.
 Convert between binder jet image formats, with presets for common controllers.
 
 ---
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
