@@ -11,11 +11,11 @@ The World Human Powered Speed Challenge takes place in Nevada each year, and the
 
 ### [Feta](https://github.com/machin0r/feta)
 
-Feta is a lightweight, C++ slicer for the 3D printing procss.
-
 <p align="center">
-  <img src="img/feta.jpg" width="300" alt="Feta Logo">
+  <img src="/images/feta.jpg" width="200" alt="Feta Logo">
 </p>
+
+Feta is a lightweight, C++ slicer for the 3D printing procss.
 
 
 ---
