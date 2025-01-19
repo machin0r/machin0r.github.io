@@ -1,8 +1,3 @@
----
-layout: default
----
-
-<h2>Portfolio</h2>
 
 <div class="portfolio-grid">
   <div class="portfolio-section">
@@ -38,9 +33,6 @@ layout: default
       <h3><a href="https://github.com/machin0r/Binder_Jet_Image_Convertor">Binder Jet Image Format Convertor</a></h3>
       <p>Convert between binder jet image formats, with presets for common controllers.</p>
     </div>
-  </div>
-  
-  <div class="portfolio-section">
     <h2>Patents</h2>
     
     <div class="project-card">
