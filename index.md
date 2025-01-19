@@ -9,6 +9,15 @@ The World Human Powered Speed Challenge takes place in Nevada each year, and the
 
 <img src="/images/portfolio_image.png?raw=true" alt="WHPSC visualisation example"/>
 
+### [In-Process Surface Finishing of L-PBF Produced Parts using a MOPA Pulsed Laser](https://doi.org/10.17638/03156896)
+
+Developed a novel in-situ surface finishing process for laser-based metal 3D printing, achieving 85% improvement in surface quality (~2 μm roughness) and 12x better dimensional accuracy (±0.01mm) than conventional systems. Built a custom L-PBF machine with a single pulsed laser source for building and ablation, and created machine learning models to optimise process parameters 
+
+<p align="center">
+  <img src="/images/ablation.png" width="400" alt="Image showing a part with ablated and non-ablated surfaces.">
+</p>
+
+
 ---
 
 ## Hardware Interface Libraries
