@@ -35,3 +35,15 @@ Python library for controlling a CIMS-II Midas ink recirculation system.
 Convert between binder jet image formats, with presets for common controllers.
 
 ---
+
+## Patents
+
+### [Semiconductor package produced by 3D printing - GB2627547](https://patents.google.com/patent/GB2627547A/)
+
+A 3D-printing technique for building advanced semiconductor packages with better cooling and electrical performance.
+
+### [Method of ink jetting to influence a microstructure of a powder layer - GB2628015](https://patents.google.com/patent/GB2628015A/)
+
+A 3D printing process that mixes different inks as they're deposited, enabling control over microstructure and material properties in the finished product.
+
+---
