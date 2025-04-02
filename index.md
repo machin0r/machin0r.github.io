@@ -11,7 +11,7 @@
     
     <div class="project-card">
       <h3><a href="https://doi.org/10.17638/03156896">In-Process Surface Finishing of L-PBF Produced Parts</a></h3>
-      <img src="/images/ablation.png" alt="Image showing a part with ablated and non-ablated surfaces"/>
+      <img src="/images/ablation.png" alt="Image showing a part with ablated and non-ablated surfaces" style="width: 80%;"/>
       <p>Developed a novel in-situ surface finishing process for laser-based metal 3D printing, achieving 85% improvement in surface quality (~2 μm roughness) and 12x better dimensional accuracy (±0.01mm) than conventional systems.</p>
     </div>
   </div>
