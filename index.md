@@ -36,13 +36,18 @@
     <h2>Patents</h2>
     
     <div class="project-card">
-      <h3><a href="https://patents.google.com/patent/GB2627547A/">Semiconductor package produced by 3D printing</a></h3>
+      <h3><a href="https://www.search-for-intellectual-property.service.gov.uk/GB2627547">Semiconductor package produced by 3D printing</a></h3>
       <p>A 3D-printing technique for building advanced semiconductor packages with better cooling and electrical performance.</p>
     </div>
     
     <div class="project-card">
-      <h3><a href="https://patents.google.com/patent/GB2628015A/">Method of ink jetting to influence a microstructure</a></h3>
+      <h3><a href="https://www.search-for-intellectual-property.service.gov.uk/GB2628015">Method of ink jetting to influence a microstructure</a></h3>
       <p>A 3D printing process that mixes different inks as they're deposited, enabling control over microstructure and material properties in the finished product.</p>
+    </div>
+
+    <div class="project-card">
+      <h3><a href="https://www.search-for-intellectual-property.service.gov.uk/GB2634739">Additive manufacturing using binder jetting</a></h3>
+      <p>A 3D printing technique that precisely controls material interfaces in 3D printed parts, enabling multi-material components with tailored properties and designed-in recycling capabilities.</p>
     </div>
   </div>
 </div>
