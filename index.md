@@ -8,6 +8,12 @@
       <img src="/images/portfolio_image.png" alt="WHPSC visualisation example"/>
       <p>The World Human Powered Speed Challenge takes place in Nevada each year, and the current world record is 89 mph. In this project I analyse the race data from 2001-2019, creating visualisations for the riders, bikes, and runs.</p>
     </div>
+
+    <div class="project-card">
+      <h3><a href="https://github.com/machin0r/beam-ml">L-PBF Additive Manufacturing Density Prediction Model</a></h3>
+      <img src="/images/beam_logo.png" alt="BEAM-ML Logo"/>
+      <p>Machine learning system for predicting relative density in Laser Powder Bed Fusion (L-PBF) additive manufacturing. Combines process parameters with material thermophysical properties to improve density prediction accuracy.</p>
+    </div>
     
     <div class="project-card">
       <h3><a href="https://doi.org/10.17638/03156896">In-Process Surface Finishing of L-PBF Produced Parts</a></h3>
