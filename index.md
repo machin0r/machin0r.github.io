@@ -42,18 +42,23 @@
     <h2>Patents</h2>
     
     <div class="project-card">
-      <h3><a href="https://www.search-for-intellectual-property.service.gov.uk/GB2627547">Semiconductor package produced by 3D printing</a></h3>
+      <h3><a href="https://www.search-for-intellectual-property.service.gov.uk/GB2627547">Semiconductor package produced by 3D printing (Granted)</a></h3>
       <p>A 3D-printing technique for building advanced semiconductor packages with better cooling and electrical performance.</p>
     </div>
     
     <div class="project-card">
-      <h3><a href="https://www.search-for-intellectual-property.service.gov.uk/GB2628015">Method of ink jetting to influence a microstructure</a></h3>
+      <h3><a href="https://www.search-for-intellectual-property.service.gov.uk/GB2628015">Method of ink jetting to influence a microstructure (Granted)</a></h3>
       <p>A 3D printing process that mixes different inks as they're deposited, enabling control over microstructure and material properties in the finished product.</p>
     </div>
 
     <div class="project-card">
-      <h3><a href="https://www.search-for-intellectual-property.service.gov.uk/GB2634739">Additive manufacturing using binder jetting</a></h3>
+      <h3><a href="https://www.search-for-intellectual-property.service.gov.uk/GB2634739">Additive manufacturing using binder jetting (Published)</a></h3>
       <p>A 3D printing technique that precisely controls material interfaces in 3D printed parts, enabling multi-material components with tailored properties and designed-in recycling capabilities.</p>
+    </div>
+
+    <div class="project-card">
+      <h3><a href="https://www.search-for-intellectual-property.service.gov.uk/GB2632326">Package produced by binder jet 3D printing (Published)</a></h3>
+      <p>A binder jetting technique that uses different ink formulations on the same metal powder layer to selectively create electrical conductors and insulators, enabling customisable semiconductor packages with optimised electrical routing and thermal management.</p>
     </div>
   </div>
 </div>
