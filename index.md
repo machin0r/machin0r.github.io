@@ -10,9 +10,14 @@
     </div>
 
     <div class="project-card">
-      <h3><a href="https://github.com/machin0r/beam-ml">L-PBF Additive Manufacturing Density Prediction Model</a></h3>
+      <h3><a href="https://github.com/machin0r/beam-ml">BEAM-ML: L-PBF Density Prediction API</a></h3>
       <img src="/images/beam_logo.png" alt="BEAM-ML Logo"/>
-      <p>Machine learning system for predicting relative density in Laser Powder Bed Fusion (L-PBF) additive manufacturing. Combines process parameters with material thermophysical properties to improve density prediction accuracy.</p>
+      <p>Build Evaluation for Additive Manufacturing. A service for predicting relative density in Laser Powder Bed Fusion (L-PBF). Combines process parameters with thermophysical properties (NIST + manufacturer data) to deliver a parameter recommender, density sanity checker, and process windows.</p>
+    </div>
+
+    <div class="project-card">
+      <h3><a href="https://github.com/machin0r/rosenthal-vis">Rosenthal Melt Pool Visualiser</a></h3>
+      <p>Interactive tool for exploring L-PBF melt pool behaviour using the Rosenthal analytical solution. Solve the 3D moving point-source heat equation in real time, rendering isometric melt pool sketches and computing length, width, and depth.</p>
     </div>
     
     <div class="project-card">
