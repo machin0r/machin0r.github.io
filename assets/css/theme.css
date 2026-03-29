@@ -124,12 +124,41 @@ section {
   margin-top: 0;
   margin-bottom: 0.75rem;
   font-size: 1.1rem;
+  color: var(--link-color);
+}
+
+.project-card h3 a {
+  color: var(--link-color);
 }
 
 .project-card img {
   width: 100%;
   border-radius: 6px;
   margin-bottom: 0.75rem;
+}
+
+.project-links {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.project-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.85rem;
+  padding: 0.2rem 0.6rem;
+  border: 1px solid var(--link-color);
+  border-radius: 4px;
+  color: var(--link-color);
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.project-links a:hover {
+  background-color: var(--link-color);
+  color: var(--bg-gradient-start);
+  opacity: 1;
 }
 
 .wrapper > section {
