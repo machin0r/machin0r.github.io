@@ -19,6 +19,11 @@
       <h3><a href="https://github.com/machin0r/rosenthal-vis">Rosenthal Melt Pool Visualiser</a></h3>
       <p>Interactive tool for exploring L-PBF melt pool behaviour using the Rosenthal analytical solution. Solve the 3D moving point-source heat equation in real time, rendering isometric melt pool sketches and computing length, width, and depth.</p>
     </div>
+
+    <div class="project-card">
+      <h3><a href="https://github.com/machin0r/absorptivity-vis">L=PBF Powder Bed Absorptivity Visualiser</a></h3>
+      <p>Interactive tool for exploring absorptivity of a powder bed in L-PBF. Adjust laser, material, and powder parameters with sliders and see how surface and effective powder bed absorptivity respond in real time.</p>
+    </div>
     
     <div class="project-card">
       <h3><a href="https://doi.org/10.17638/03156896">In-Process Surface Finishing of L-PBF Produced Parts</a></h3>
@@ -44,6 +49,7 @@
       <h3><a href="https://github.com/machin0r/Binder_Jet_Image_Convertor">Binder Jet Image Format Convertor</a></h3>
       <p>Convert between binder jet image formats, with presets for common controllers.</p>
     </div>
+    
     <h2>Patents</h2>
     
     <div class="project-card">
